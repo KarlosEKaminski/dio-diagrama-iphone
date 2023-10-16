@@ -28,6 +28,11 @@
   - Exibir Página
   - Atualizar Página
   - Adicionar Nova Aba
+ 
+## 📄 Licença
+
+Este projeto está sob a licença [MIT](LICENSE.txt)<br>
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ## 📊 Diagrama de CLasses UML
 <div align="center">
