@@ -33,5 +33,5 @@
 <div align="center">
   <br>
   <br>
-  <img src="Iphone/Diagrama de Classes/Diagrama de Classes do Iphone.png">
+  <img src="Iphone/Diagrama de Classes/Diagrama de Classes do Iphone.png" alt="Diagrama de Classes Iphone">
 </div>
